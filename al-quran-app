@@ -3,5 +3,8 @@ git init
 git add .
 git commit -m "Initial commit: Quran application with translations and audio"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/al-quran-app.git
+git remote add origin https://github.com/Musa-Khanj/al-quran-app.git
 git push -u origin main
+git add .
+git commit -m "Add Netlify redirects for SPA routing"
+git push
