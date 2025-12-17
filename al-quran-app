@@ -1,0 +1,7 @@
+/tmp/cc-agent/61592425/project
+git init
+git add .
+git commit -m "Initial commit: Quran application with translations and audio"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/al-quran-app.git
+git push -u origin main
